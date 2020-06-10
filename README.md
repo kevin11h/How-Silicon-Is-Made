@@ -2,6 +2,8 @@
 # https://www.youtube.com/watch?v=FnLNBkxZFR8
 
 
+## Copper $50 Bn Market
+
 # https://en.wikipedia.org/wiki/Semiconductor_device_fabrication
 
 ![](https://www.shinetsusilicone-global.com/info/images/w_silicone/begin_kei2.gif)
