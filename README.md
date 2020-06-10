@@ -23,4 +23,4 @@ Because of the wide array of materials that go into even the simplest of devices
 
 ![](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/All-the-Minerals-in-the-World_V5.jpg)
 
-![](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/oil-market-size.jpg
+![](https://2oqz471sa19h3vbwa53m33yj-wpengine.netdna-ssl.com/wp-content/uploads/2016/10/oil-market-size.jpg)
