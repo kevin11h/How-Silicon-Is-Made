@@ -15,6 +15,40 @@
 In addition to plastics and copper wiring, microchips rely on silicon and rare earths metals, batteries need lithium, as well as specialized ceramics and glass for screens and other parts.
 Because of the wide array of materials that go into even the simplest of devices, electronics prices may fluctuate with commodities markets.
 
+### aes
+bronze, Ore, copper, bronze money, weapon, crude
+
+### aeramentum
+copper, prepared copper
+
+### aeramen
+copper, bronze
+
+aeneus
+brass, brazen, bronze, copper, bronze-coloured, bronze-colored
+
+aheneus
+copper, bronze, brazen, hard as bronze, bronze-coloured, brass
+
+ahenus
+bronze, brazen, brass, bronze-colored, bronze-coloured, copper
+
+cypreus
+copper
+
+aenus
+copper, hard as bronze, bronze, brass, bronze-coloured, bronze-colored
+
+chalceus
+copper, brazen, brass, aeneous
+
+# aercus
+# Ærcus
+of copper, copper
+
+# cypreus
+copper
+
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Who_exported_Electronic_integrated_circuits_in_2016.svg/1200px-Who_exported_Electronic_integrated_circuits_in_2016.svg.png)
 
